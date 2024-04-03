@@ -4,7 +4,7 @@
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrojbDev&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojbDev&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojbDev)](https://github.com/pedrojbDev/github-readme-stats)
 ## Tecnologias Utilizadas:
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
