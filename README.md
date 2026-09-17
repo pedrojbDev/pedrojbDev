@@ -55,10 +55,9 @@ I love turning ideas into working systems — from **backend services and asynch
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-one.vercel.app/api?username=pedrojbDev&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&include_all_commits=true" alt="Pedro's GitHub stats" />
+<img height="180em" src="https://github-readme-stats-one.vercel.app/api?username=pedrojbDev&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&include_all_commits=true&cache_seconds=1440" alt="Pedro's GitHub stats" />
 
-<img height="180em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=pedrojbDev&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=C9D1D9&langs_count=8" alt="Top languages" />
-
+<img height="180em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=pedrojbDev&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=C9D1D9&langs_count=8&cache_seconds=1440" alt="Top languages" />
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=pedrojbDev&background=000000&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=39FF88&dates=2EA043&currStreakNum=00FF41&sideNums=00FF41" alt="GitHub streak" />
